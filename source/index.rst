@@ -6,7 +6,7 @@
 CITORUS
 ===================================
  
-Содержание:
+Contents:
 
 .. toctree::
    :maxdepth: 2
