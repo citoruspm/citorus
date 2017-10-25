@@ -1,5 +1,5 @@
-Платформа автоматизации "ЦИТОРУС"
-=================================
+Welcome to citorus's Manual!
+============================
 
 .. toctree::
    :maxdepth: 2
@@ -8,9 +8,9 @@
    model
    journal
    
-Индекс и таблицы
-================
+.. Индекс и таблицы
+.. ================
 
-* :ref:`genindex`
-* :ref:`search`
-* :ref:`glossary`
+.. * :ref:`genindex`
+.. * :ref:`search`
+.. * :ref:`glossary`
