@@ -2067,8 +2067,8 @@ img
 .. |image14| image:: https://github.com/citoruspm/citorus/blob/master/source/_static/6.png?raw=true
 .. |image15| image:: https://github.com/citoruspm/citorus/blob/master/source/_static/6.png?raw=true
 .. |image16| image:: https://github.com/citoruspm/citorus/blob/master/source/_static/ris5.png?raw=true
-.. |image17| image:: https://github.com/citoruspm/GeoData//blob/master/8.png?raw=true
-.. |image18| image:: https://github.com/citoruspm/citorus/blob/master/source/_static/8.png?raw=true
+.. |image17| image:: https://github.com/citoruspm/GeoData//blob/master/27.png?raw=true
+.. |image18| image:: https://github.com/citoruspm/citorus/blob/master/source/_static/26.png?raw=true
 .. |image19| image:: https://github.com/citoruspm/citorus/blob/master/source/_static/ris6.png?raw=true
 .. |image20| image:: https://github.com/citoruspm/citorus/blob/master/source/_static/8.png?raw=true
 .. |image21| image:: https://github.com/citoruspm/citorus/blob/master/source/_static/ris7.png?raw=true
