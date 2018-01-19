@@ -509,12 +509,11 @@ GIS-сервере CITORUS. Подключение удаленного раст
    подключение удаленного растрового слоя.
 -  **Внешний url** – вставьте ссылку на данный сервис. Например, ``http://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}``.
 -  **Доп. опции** – укажите дополнительные параметры запроса к удаленному слою. Например, для WMS-сервисов строка может выглядеть
-   следующим образом: ``{"constructorOptions":{"layers":"name","format":"image/png","bbox":"26,9,180,83.5","transparent":true}}``,
+   следующим образом: ``{"constructorOptions":{"layers":"name","format":"image/png","transparent":true}}``,
    где:
 
    -  ``layers`` – название слоя,
    -  ``format`` – формат данных слоя,
-   -  ``bbox`` – границы слоя,
    -  ``transparent`` – прозрачность слоя (true/false).
 
 .. figure:: _static/ris17.png
