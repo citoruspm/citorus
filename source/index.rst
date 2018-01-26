@@ -6,8 +6,8 @@
 
    obj
    model
-   journal
    versions
+   journal
    
 .. Индекс и таблицы
 .. ================
