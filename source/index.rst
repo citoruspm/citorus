@@ -4,6 +4,7 @@
 .. toctree::
    :maxdepth: 2
 
+   general
    obj
    model
    versions
